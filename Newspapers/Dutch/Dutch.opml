@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newspapers in Dutch</title>
+	</head>
+	<body>
+		 <outline text="Dutch" title="Dutch">
+			<outline text="De Telegraaf" title="De Telegraaf" type="rss" xmlUrl="https://www.telegraaf.nl/nieuws/rss" />
+			<outline text="Algemeen Dagblad" title="Algemeen Dagblad" type="rss" xmlUrl="https://www.ad.nl/home/rss.xml" />
+			<outline text="Trouw" title="Trouw" type="rss" xmlUrl="https://www.trouw.nl/voorpagina/rss.xml" />
+			<outline text="De Telegraaf" title="De Telegraaf" type="rss" xmlUrl="https://www.telegraaf.nl/rss" />
+		 </outline>
+	</body>
+</opml>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+	<head>
+		<title>Podcasts in all languages</title>
+	</head>
+	<body>
+	<outline text="Arabic">
+		<outline type="rss" text="Droos Podcast - دروس بودكاست" title="Droos Podcast - دروس بودكاست" xmlUrl="https://anchor.fm/s/70850d5c/podcast/rss"/>
+		<outline type="rss" text="Eshtry menny - اشتري مني" title="Eshtry menny - اشتري مني" xmlUrl="https://feeds.buzzsprout.com/2175330.rss"/>
+		<outline type="rss" text="كفاية بقى - Kefaya Ba2a" title="كفاية بقى - Kefaya Ba2a" xmlUrl="https://feeds.buzzsprout.com/2265906.rss"/>
+		<outline type="rss" text="Simple &amp; Easy Arabic Podcast" title="Simple &amp; Easy Arabic Podcast" xmlUrl="https://anchor.fm/s/3a6ba870/podcast/rss"/>
+		<outline type="rss" text="كفاية بقى - Kefaya Ba2a" title="كفاية بقى - Kefaya Ba2a" xmlUrl="https://feeds.buzzsprout.com/2265906.rss"/>
+		<outline type="rss" text="كنبة السبت" title="كنبة السبت" xmlUrl="https://feeds.simplecast.com/2pgGD0og"/>
+		<outline type="rss" text="هدوء" title="هدوء" xmlUrl="https://feeds.simplecast.com/K_IzUz9C"/>
+		<outline type="rss" text="وعي" title="وعي" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1073536591/sounds.rss"/>
+	</outline>
+	<outline text="Catalan">
+		<outline type="rss" text="Crims" title="Crims" xmlUrl="http://dinamics.ccma.cat/public/podcast/catradio/xml/9/5/podprograma1859.xml"/>
+		<outline type="rss" text="Easy Catalan: Learn Catalan with everyday conversations" title="Easy Catalan: Learn Catalan with everyday conversations" xmlUrl="https://www.easycatalan.fm/rss"/>
+	</outline>
+	<outline text='Chinese'>
+		<outline type="rss" text="One Chinese Word a Day" title="One Chinese Word a Day" xmlUrl="https://anchor.fm/s/1214ed78/podcast/rss"/>
+	</outline>
+	<outline text="Czech">
+		<outline type="rss" text="Prohnilí" title="Prohnilí" xmlUrl="https://feeds.transistor.fm/prohnili"/>
+		<outline type="rss" text="Ve vatě" title="Ve vatě" xmlUrl="https://feeds.transistor.fm/ve-vate"/>
+		<outline type="rss" text="Studio N" title="Studio N" xmlUrl="https://feed.podbean.com/denikn/feed.xml"/>
+	</outline>
+	<outline text="Dutch">
+		<outline type="rss" text="Met Groenteman in de kast" title="Met Groenteman in de kast" xmlUrl="https://www.omnycontent.com/d/playlist/33dbd2dc-d464-471d-9feb-abae00330078/1cb90b55-9624-4deb-8b7e-abae009442f7/a44454d0-6f9a-4b85-925a-abae0094430a/podcast.rss"/>
+		<outline type="rss" text="NRC Vandaag" title="NRC Vandaag" xmlUrl="https://rss.art19.com/vandaag"/>
+		<outline type="rss" text="SBS Dutch - SBS Nederlands" title="SBS Dutch - SBS Nederlands" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-dutch/"/>
+		<outline type="rss" text="de Volkskrant Elke Dag" title="de Volkskrant Elke Dag" xmlUrl="https://www.omnycontent.com/d/playlist/33dbd2dc-d464-471d-9feb-abae00330078/052ccb8e-7484-4095-bdba-acbc00f34a07/e1c18ea7-7349-4f07-a1e3-acbc00f36fe5/podcast.rss"/>
+	</outline>
+	<outline text="Finnish">
+		<outline type="rss" text="23 minuuttia" title="23 minuuttia" xmlUrl="https://anchor.fm/s/210e24fc/podcast/rss"/>
+		<outline type="rss" text="HS Visio -podcast" title="HS Visio -podcast" xmlUrl="https://anchor.fm/s/169d9214/podcast/rss"/>
+		<outline type="rss" text="Jäljillä" title="Jäljillä" xmlUrl="https://feed.pod.space/jaljilla"/>
+		<outline type="rss" text="Kauneimmat lastensadut" title="Kauneimmat lastensadut" xmlUrl="https://anchor.fm/s/4eb9e5a8/podcast/rss"/>
+		<outline type="rss" text="Lauantaikerho" title="Lauantaikerho" xmlUrl="https://anchor.fm/s/dad588e4/podcast/rss"/>
+		<outline type="rss" text="Mimmit sijoittaa" title="Mimmit sijoittaa" xmlUrl="https://rss.acast.com/mimmitsijoittaa"/>
+		<outline type="rss" text="Puheenaihe" title="Puheenaihe" xmlUrl="https://anchor.fm/s/91bd59c/podcast/rss"/>
+		<outline type="rss" text="SBS Finnish - SBS Finnish" title="SBS Finnish - SBS Finnish" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-finnish/"/>
+	</outline>
+	<outline text="French">
+		<outline type="rss" text="2 Heures De Perdues" title="2 Heures De Perdues" xmlUrl="http://www.2hdp.fr/2HDP.xml"/>
+		<outline type="rss" text="301 vues" title="301 vues" xmlUrl="https://feeds.acast.com/public/shows/0cd3c0c2-b27e-5c35-9445-f7390e754f7b"/>
+		<outline type="rss" text="Choses à Savoir" title="Choses à Savoir" xmlUrl="https://rss.acast.com/choses-a-savoir"/>
+		<outline type="rss" text="Choses à Savoir HISTOIRE" title="Choses à Savoir HISTOIRE" xmlUrl="https://rss.acast.com/choses-a-savoir-histoire"/>
+		<outline type="rss" text="Complément d'Histoire" title="Complément d'Histoire" xmlUrl="https://rss.acast.com/complement-d-histoire"/>
+		<outline type="rss" text="Easy French: Learn French through authentic conversations | Conversations authentiques pour apprendre le français" title="Easy French: Learn French through authentic conversations | Conversations authentiques pour apprendre le français" xmlUrl="https://www.easyfrench.fm/rss"/>
+		<outline type="rss" text="French Blabla" title="French Blabla" xmlUrl="https://frenchblabla.libsyn.com/rss"/>
+		<outline type="rss" text="French Mornings with Elisa" title="French Mornings with Elisa" xmlUrl="https://anchor.fm/s/ef00a2cc/podcast/rss"/>
+		<outline type="rss" text="Journal en français facile" title="Journal en français facile" xmlUrl="https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&amp;program.entrepriseId=WB132849-RFI-FR-20151203"/>
+		<outline type="rss" text="Les Grosses Têtes" title="Les Grosses Têtes" xmlUrl="https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"/>
+		<outline type="rss" text="Les Pires Moments de l'Histoire" title="Les Pires Moments de l'Histoire" xmlUrl="https://feeds.acast.com/public/shows/63a0a446157e1800116bef05"/>
+		<outline type="rss" text="LE FRANCAIS A LA UNE" title="LE FRANCAIS A LA UNE" xmlUrl="https://anchor.fm/s/285e6834/podcast/rss"/>
+		<outline type="rss" text="Learn French with daily podcasts" title="Learn French with daily podcasts" xmlUrl="https://feeds.megaphone.fm/FODL4957050068"/>
+		<outline type="rss" text="L’Histoire nous le dira" title="L’Histoire nous le dira" xmlUrl="https://feed.podbean.com/lhistoirenousledira/feed.xml"/>
+		<outline type="rss" text="Passerelles : a French podcast for intermediate learners" title="Passerelles : a French podcast for intermediate learners" xmlUrl="https://anchor.fm/s/4401644c/podcast/rss"/>
+		<outline type="rss" text="SBS French - SBS en français" title="SBS French - SBS en français" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-french/"/>
+		<outline type="rss" text="Thinkerview" title="Thinkerview" xmlUrl="https://www.thinkerview.com/feed/podcast/"/>
+	</outline>
+	<outline text="German">
+		<outline type="rss" text="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" title="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" xmlUrl="https://6byima.podcaster.de/deutschmitschmidt.rss"/>
+		<outline type="rss" text="Alles gesagt?" title="Alles gesagt?" xmlUrl="https://feeds.simplecast.com/Y_bRXaw2"/>
+		<outline type="rss" text="Alltagsdeutsch" title="Alltagsdeutsch" xmlUrl="https://iono.fm/rss/chan/2275"/>
+		<outline type="rss" text="Apokalypse &amp; Filterkaffee" title="Apokalypse &amp; Filterkaffee" xmlUrl="https://apokalypse-und-filterkaffee.podigee.io/feed/mp3"/>
+		<outline type="rss" text="Auf Deutsch gesagt!" title="Auf Deutsch gesagt!" xmlUrl="https://feeds.acast.com/public/shows/63cfc6d668877900110ea42a"/>
+		<outline type="rss" text="Baywatch Berlin" title="Baywatch Berlin" xmlUrl="https://baywatch-berlin.podigee.io/feed/mp3"/>
+		<outline type="rss" text="Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern" title="Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern" xmlUrl="https://www.easygerman.org/podcast/rss"/>
+		<outline type="rss" text="Eine Stunde History - Deutschlandfunk Nova" title="Eine Stunde History - Deutschlandfunk Nova" xmlUrl="https://www.deutschlandfunknova.de/podcast/eine-stunde-history"/>
+		<outline type="rss" text="Geht da noch was?" title="Geht da noch was?" xmlUrl="https://feeds.simplecast.com/8hfq14id"/>
+		<outline type="rss" text="Kack &amp; Sachgeschichten" title="Kack &amp; Sachgeschichten" xmlUrl="https://kackundsach.podigee.io/feed/mp3"/>
+		<outline type="rss" text="LANZ &amp; PRECHT" title="LANZ &amp; PRECHT" xmlUrl="https://lanz-precht.podigee.io/feed/mp3"/>
+		<outline type="rss" text="Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen" title="Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen" xmlUrl="https://rss.dw.com/xml/DKpodcast_lgn_de"/>
+		<outline type="rss" text="Learn German Podcast | Deutsch lernen | ExpertlyGerman.com" title="Learn German Podcast | Deutsch lernen | ExpertlyGerman.com" xmlUrl="https://anchor.fm/s/2a5bbf9c/podcast/rss"/>
+		<outline type="rss" text="News in Slow German" title="News in Slow German" xmlUrl="https://newsinslowgerman.libsyn.com/rss"/>
+		<outline type="rss" text="Quarks" title="Quarks" xmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-quarks-und-co-100.podcast"/>
+		<outline type="rss" text="SBS German - SBS Deutsch" title="SBS German - SBS Deutsch" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-german/"/>
+		<outline type="rss" text="SWR2 Wissen" title="SWR2 Wissen" xmlUrl="https://www.swr.de/~podcast/swr2/programm/podcast-swr2-wissen-100.xml"/>
+		<outline type="rss" text="Slow German" title="Slow German" xmlUrl="https://feeds.podcastmirror.com/slowgerman"/>
+		<outline type="rss" text="Sozusagen!" title="Sozusagen!" xmlUrl="https://feeds.br.de/sozusagen/feed.xml"/>
+		<outline type="rss" text="glutenfreieralltag" title="glutenfreieralltag" xmlUrl="https://anchor.fm/s/a4e4f594/podcast/rss"/>
+		<outline type="rss" text="radioWissen" title="radioWissen" xmlUrl="https://feeds.br.de/radiowissen/feed.xml"/>
+		<outline type="rss" text="Verbrechen" title="Verbrechen" xmlUrl="https://feeds.simplecast.com/dnJhzmyN"/>
+		<outline type="rss" text="Was jetzt?" title="Was jetzt?" xmlUrl="https://feeds.simplecast.com/Xtqjn37O"/>
+		<outline type="rss" text="ZEIT Geschichte. Wie war das noch mal?" title="ZEIT Geschichte. Wie war das noch mal?" xmlUrl="https://feeds.simplecast.com/DV4gq1zP"/>
+		<outline type="rss" text="Top-Thema mit Vokabeln | Audios | DW Deutsch lernen" title="Top-Thema mit Vokabeln | Audios | DW Deutsch lernen" xmlUrl="https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de"/>
+		<outline type="rss" text="Weird Crimes" title="Weird Crimes" xmlUrl="https://weird-crimes.podigee.io/feed/mp3"/>
+	</outline>
+	<outline text="Greek">
+		<outline type="rss" text="Easy Greek Stories - Intermediate Greek Language Level" title="Easy Greek Stories - Intermediate Greek Language Level" xmlUrl="https://anchor.fm/s/5b00b760/podcast/rss"/>
+		<outline type="rss" text="Easy Greek: Learn Greek with authentic conversations | Μάθετε ελληνικά με αυθεντικούς διαλόγ" title="Easy Greek: Learn Greek with authentic conversations | Μάθετε ελληνικά με αυθεντικούς διαλόγ" xmlUrl="https://feeds.fireside.fm/easygreek/rss"/>
+		<outline type="rss" text="Άλλο ένα Podcast, με τον Θωμά Ζάμπρα" title="Άλλο ένα Podcast, με τον Θωμά Ζάμπρα" xmlUrl="https://feeds.simplecast.com/xvyxNYWJ"/>
+		<outline type="rss" text="Μπούκλα 99 | Νεφέλη Μεγκ" title="Μπούκλα 99 | Νεφέλη Μεγκ" xmlUrl="https://feeds.simplecast.com/IAcu9dhU"/>
+		<outline type="rss" text="Στο Στόμα του Λάκη" title="Στο Στόμα του Λάκη" xmlUrl="https://feeds.simplecast.com/qq7hQTGu"/>
+		<outline type="rss" text="WeeGreek: Short Stories and News in Easy And Simple Greek!" title="WeeGreek: Short Stories and News in Easy And Simple Greek!" xmlUrl="https://anchor.fm/s/36fd71c8/podcast/rss"/>
+		<outline type="rss" text="The Brain Hacking Academy" title="The Brain Hacking Academy" xmlUrl="https://feed.podbean.com/brainhackingacademy/feed.xml"/>
+	</outline>
+	<outline text="Hungarian">
+			<outline type="rss" text="444" title="444" xmlUrl="https://www.omnycontent.com/d/playlist/d8df8f59-7dc7-4c59-be78-aea00114ae64/5643256c-50ca-4b83-bd76-aead00d561e1/31d0efea-4591-440a-8088-aead00d561fd/podcast.rss"/>
+			<outline type="rss" text="5:59" title="5:59" xmlUrl="https://feeds.transistor.fm/5-59"/>
+			<outline type="rss" text="Agytágító" title="Agytágító" xmlUrl="https://feeds.megaphone.fm/BETO7434772990"/>
+			<outline type="rss" text="Friderikusz Podcast" title="Friderikusz Podcast" xmlUrl="https://anchor.fm/s/57b2bb1c/podcast/rss"/>
+			<outline type="rss" text="Hihetetlen Történelem Podcast" title="Hihetetlen Történelem Podcast" xmlUrl="https://feeds.megaphone.fm/BETO5027603861"/>
+	</outline>
+	<outline text="Italian">
+		<outline type="rss" text="Easy Italian: Learn Italian with real conversations | Imparare l'italiano con conversazioni reali" title="Easy Italian: Learn Italian with real conversations | Imparare l'italiano con conversazioni reali" xmlUrl="https://www.easyitalian.fm/rss"/>
+		<outline type="rss" text="Elisa True Crime" title="Elisa True Crime" xmlUrl="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/1e4b336a-52e9-4d74-8616-aeac00f7a647/77ea6e74-62bf-48f4-bf3b-aeac00f7a65a/podcast.rss"/>
+		<outline type="rss" text="Geopop - Le Scienze nella vita di tutti i giorni" title="Geopop - Le Scienze nella vita di tutti i giorni" xmlUrl="https://feeds.megaphone.fm/CPS2408869581"/>
+		<outline type="rss" text="Il Mondo" title="Il Mondo" xmlUrl="https://www.spreaker.com/show/5773405/episodes/feed"/>
+		<outline type="rss" text="Indagini" title="Indagini" xmlUrl="https://feeds.megaphone.fm/IPS8860333488"/>
+		<outline type="rss" text="Ma perché?" title="Ma perché?" xmlUrl="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/3fbddd6a-ef2f-494d-bdc7-af8f00f3c16f/73175d2f-b9a3-4deb-ba0d-af8f00f3c178/podcast.rss"/>
+		<outline type="rss" text="Muschio Selvaggio" title="Muschio Selvaggio" xmlUrl="https://anchor.fm/s/8a73ebc0/podcast/rss"/>
+		<outline type="rss" text="Non hanno un amico" title="Non hanno un amico" xmlUrl="https://feeds.megaphone.fm/BCS3841029693"/>
+		<outline type="rss" text="Stories" title="Stories" xmlUrl="https://feeds.megaphone.fm/GLT7160542006"/>
+	</outline>
+	<outline text="Japanese">
+			<outline type="rss" text="Azumi’s Easy Japanese Small Talk" title="Azumi’s Easy Japanese Small Talk" xmlUrl="https://anchor.fm/s/c37e6f8/podcast/rss"/>
+			<outline type="rss" text="EASY JAPANESE PODCAST Learn Japanese with everyday conversations!" title="EASY JAPANESE PODCAST Learn Japanese with everyday conversations!" xmlUrl="https://anchor.fm/s/4986dac8/podcast/rss"/>
+			<outline type="rss" text="【英語×日本語】StudyInネイティブ英会話Podcast" title="【英語×日本語】StudyInネイティブ英会話Podcast" xmlUrl="https://anchor.fm/s/501836e8/podcast/rss"/>
+			<outline type="rss" text="日本語って！" title="日本語って！" xmlUrl="https://anchor.fm/s/61f5260/podcast/rss"/>
+			<outline type="rss" text="Learn Japanese from real talks" title="Learn Japanese from real talks" xmlUrl="https://anchor.fm/s/1c954db0/podcast/rss"/>
+			<outline type="rss" text="Learning Japanese with Keiko" title="Learning Japanese with Keiko" xmlUrl="https://anchor.fm/s/12adbd00/podcast/rss"/>
+			<outline type="rss" text="SBS Japanese - SBSの日本語放送" title="SBS Japanese - SBSの日本語放送" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-japanese/"/>
+			<outline type="rss" text="YUYUの日本語Podcast【Japanese Podcast】" title="YUYUの日本語Podcast【Japanese Podcast】" xmlUrl="https://anchor.fm/s/cda85d4/podcast/rss"/>
+	</outline>
+	<outline text="Norwegian">
+		<outline type="rss" text="Fluent Fiction - Norwegian" title="Fluent Fiction - Norwegian" xmlUrl="https://www.spreaker.com/show/5756189/episodes/feed"/>
+		<outline type="rss" text="Klar Tale" title="Klar Tale" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:205624409/sounds.rss"/>
+		<outline type="rss" text="Learn Norwegian Podcast" title="Learn Norwegian Podcast" xmlUrl="https://feeds.buzzsprout.com/2085024.rss"/>
+		<outline type="rss" text="Lær norsk nå!" title="Lær norsk nå!" xmlUrl="https://anchor.fm/s/19b5cbd8/podcast/rss"/>
+		<outline type="rss" text="Norsklærer Karense" title="Norsklærer Karense" xmlUrl="https://karense.podomatic.com/rss2.xml"/>
+		<outline type="rss" text="Norskpodden" title="Norskpodden" xmlUrl="https://feeds.captivate.fm/norskpodden/"/>
+		<outline type="rss" text="Relax With Slow Norwegian" title="Relax With Slow Norwegian" xmlUrl="https://feed.podbean.com/norskmedlene/feed.xml"/>
+	</outline>
+	<outline text="Persian">
+		<outline type="rss" text="Learn Persian with Chai and Conversation" title="Learn Persian with Chai and Conversation" xmlUrl="https://feeds.transistor.fm/chai-and-conversation"/>
+		<outline type="rss" text="Persian night story" title="Persian night story" xmlUrl="https://www.podcasts.com/rss_feed/d5e5ff870c6a26e5092004262fe47610"/>
+		<outline type="rss" text="SBS Persian - اس بی اس فارسی" title="SBS Persian - اس بی اس فارسی" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-persian/"/>
+		<outline type="rss" text="پرگار" title="پرگار" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9wf.rss"/>
+
+	</outline>
+	<outline text="Polish">
+		<outline type="rss" text="Imponderabilia - Karol Paciorek" title="Imponderabilia - Karol Paciorek" xmlUrl="https://anchor.fm/s/5a81754/podcast/rss"/>
+		<outline type="rss" text="Kryminalne Historie" title="Kryminalne Historie" xmlUrl="https://anchor.fm/s/6e6e1568/podcast/rss"/>
+		<outline type="rss" text="Learn Polish Language Online Resource" title="Learn Polish Language Online Resource" xmlUrl="http://feeds.feedburner.com/realpolish"/>
+		<outline type="rss" text="Learn Polish Podcast" title="Learn Polish Podcast" xmlUrl="https://feed.podbean.com/learnpolish/feed.xml"/>
+		<outline type="rss" text="Nauka To Lubię" title="Nauka To Lubię" xmlUrl="https://feeds.castos.com/d4vo5"/>
+		<outline type="rss" text="Piąte: Nie zabijaj" title="Piąte: Nie zabijaj" xmlUrl="https://anchor.fm/s/e1b27dc0/podcast/rss"/>
+		<outline type="rss" text="Polish with John" title="Polish with John" xmlUrl="https://www.spreaker.com/show/3123739/episodes/feed"/>
+		<outline type="rss" text="Polski Daily" title="Polski Daily" xmlUrl="https://www.spreaker.com/show/2626525/episodes/feed"/>
+		<outline type="rss" text="Płynnie po polsku - Learn Polish with Anna" title="Płynnie po polsku - Learn Polish with Anna" xmlUrl="https://anchor.fm/s/b92708bc/podcast/rss"/>
+		<outline type="rss" text="Slow Polish Podcast" title="Slow Polish Podcast" xmlUrl="https://anchor.fm/s/6e73157c/podcast/rss"/>
+	</outline>
+	<outline text="Portuguese">
+		<outline type="rss" text="Confins do Universo" title="Confins do Universo" xmlUrl="http://universohq.com/category/podcast/feed/?nocache"/>
+		<outline type="rss" text="História em Meia Hora" title="História em Meia Hora" xmlUrl="https://anchor.fm/s/122df228/podcast/rss"/>
+		<outline type="rss" text="Inteligência Ltda." title="Inteligência Ltda." xmlUrl="https://anchor.fm/s/6cf4d5a0/podcast/rss"/>
+		<outline type="rss" text="NerdCast" title="NerdCast" xmlUrl="https://api.jovemnerd.com.br/feed-nerdcast/"/>
+		<outline type="rss" text="Projeto Humanos: O Caso Leandro Bossi" title="Projeto Humanos: O Caso Leandro Bossi" xmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/220ec2a9-bb93-469e-aad7-acd8013110b7/11cd2462-4550-482d-88ea-acd8013110cf/podcast.rss"/>
+		<outline type="rss" text="Venus Podcast" title="Venus Podcast" xmlUrl="https://anchor.fm/s/a5676948/podcast/rss"/>
+	</outline>
+	<outline text="Russian">
+		<outline type="rss" text="Comprehensible Russian Podcast | Learn Russian with Max" title="Comprehensible Russian Podcast | Learn Russian with Max" xmlUrl="https://anchor.fm/s/6f65684/podcast/rss"/>
+		<outline type="rss" text="Russian Progress Podcast" title="Russian Progress Podcast" xmlUrl="https://russianprogress.com/category/%d0%bf%d0%be%d0%b4%d0%ba%d0%b0%d1%81%d1%82%d1%8b/feed/"/>
+		<outline type="rss" text="Мы все умрем. Но это не точно" title="Мы все умрем. Но это не точно" xmlUrl="https://feeds.simplecast.com/85OD7K0z"/>
+		<outline type="rss" text="Начнем с понедельника" title="Начнем с понедельника" xmlUrl="https://cloud.mave.digital/36922"/>
+		<outline type="rss" text="Не учи меня жить" title="Не учи меня жить" xmlUrl="https://mavecloud.s3mts.ru/storage/feeds/33220.xml"/>
+		<outline type="rss" text="Осторожно: утро!" title="Осторожно: утро!" xmlUrl="https://cloud.mave.digital/33978"/>
+		<outline type="rss" text="Очень по-русски" title="Очень по-русски" xmlUrl="https://feeds.feedburner.com/ochenporusski"/>
+		<outline type="rss" text="Пост правди" title="Пост правди" xmlUrl="https://feeds.simplecast.com/_Tq1zcrn"/>
+		<outline type="rss" text="Простими словами" title="Простими словами" xmlUrl="https://anchor.fm/s/1045de80/podcast/rss"/>
+		<outline type="rss" text="Психология с Александрой Яковлевой" title="Психология с Александрой Яковлевой" xmlUrl="https://cloud.mave.digital/43611"/>
+		<outline type="rss" text="Слушай, это просто" title="Слушай, это просто" xmlUrl="https://cloud.mave.digital/37124"/>
+		<outline type="rss" text="Ты – это важно" title="Ты – это важно" xmlUrl="https://cloud.mave.digital/33215"/>
+		<outline type="rss" text="В предыдущих сериях" title="В предыдущих сериях" xmlUrl="https://feeds.simplecast.com/TicU3npd"/>
+		<outline type="rss" text="Живой Гвоздь" title="Живой Гвоздь" xmlUrl="https://cloud.mave.digital/41353"/>
+	</outline>
+	<outline text="Turkish">
+		<outline type="rss" text="Barış Özcan ile 111 Hz" title="Barış Özcan ile 111 Hz" xmlUrl="https://rss.art19.com/baris-ozcan-ile-111-hz"/>
+		<outline type="rss" text="Biraz Konuşabilir miyiz?" title="Biraz Konuşabilir miyiz?" xmlUrl="https://anchor.fm/s/37c8ef88/podcast/rss"/>
+		<outline type="rss" text="Bu Mu Yani?" title="Bu Mu Yani?" xmlUrl="https://anchor.fm/s/4e883d8c/podcast/rss"/>
+		<outline type="rss" text="Fularsız Entellik" title="Fularsız Entellik" xmlUrl="https://rss.art19.com/fularsz-entellik"/>
+		<outline type="rss" text="Kendine İyi Davran" title="Kendine İyi Davran" xmlUrl="https://www.spreaker.com/show/2650490/episodes/feed"/>
+		<outline type="rss" text="Nasıl Olunur" title="Nasıl Olunur" xmlUrl="https://feeds.simplecast.com/TRRbx_5C"/>
+	</outline>
+	<outline text="Ukraninan">
+		<outline type="rss" text="5 Minute Ukrainian" title="5 Minute Ukrainian" xmlUrl="https://feeds.buzzsprout.com/1370695.rss"/>
+		<outline type="rss" text="Шит ай ноу Лайв" title="Шит ай ноу Лайв" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:691362035/sounds.rss"/>
+		<outline type="rss" text="Ukrainian Lessons Podcast — for everyone who learns and loves the Ukrainian language" title="Ukrainian Lessons Podcast — for everyone who learns and loves the Ukrainian language" xmlUrl="https://feeds.buzzsprout.com/1370836.rss"/>
+		<outline type="rss" text="Кляті питання" title="Кляті питання" xmlUrl="https://feeds.captivate.fm/kliaty-pitannia/"/>
+		<outline type="rss" text="Короче, история" title="Короче, история" xmlUrl="https://redbasset.tech/_api/rest/podcast_rss/2576"/>
+		<outline type="rss" text="Музика з історіями" title="Музика з історіями" xmlUrl="https://anchor.fm/s/45331810/podcast/rss"/>
+	</outline>
+	</body>
+</opml>

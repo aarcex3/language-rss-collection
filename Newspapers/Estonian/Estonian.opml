@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newspapers in Estonian</title>
+	</head>
+	<body>
+		 <outline text="Estonian" title="Estonian">
+			<outline text="Õhtuleht" title="Õhtuleht" type="rss" xmlUrl="https://www.ohtuleht.ee/rss" />
+			<outline text="Lääne Elu" title="Lääne Elu" type="rss" xmlUrl="https://online.le.ee/feed/" />
+			<outline text="Sakala" title="Sakala" type="rss" xmlUrl="https://sakala.postimees.ee/rss" />
+			<outline text="Saarte Hääl" title="Saarte Hääl" type="rss" xmlUrl="https://saartehaal.postimees.ee/rss" />
+		 </outline>
+	</body>
+</opml>

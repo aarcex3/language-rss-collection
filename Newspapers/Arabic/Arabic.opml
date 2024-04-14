@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newspapers in Arabic</title>
+	</head>
+	<body>
+		<outline text="Arabic" title="Arabic">
+			<outline text="BBC Arabic" title="BBC Arabic" type="rss" xmlUrl="https://www.bbc.com/arabic/worldnews/index.xml" />
+			<outline text="الجزيرة نت" title="الجزيرة نت" type="rss" xmlUrl="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9" />
+			<outline text="CNN Arabic" title="CNN Arabic" type="rss" xmlUrl="https://arabic.cnn.com/api/v1/rss/rss.xml" />
+			<outline text="الأردن 24" title="الأردن 24" type="rss" xmlUrl="https://jo24.net/feed/rss.php" />
+		 </outline>	
+	</body>
+</opml>
