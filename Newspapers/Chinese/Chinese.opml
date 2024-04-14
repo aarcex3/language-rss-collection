@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newspapers in Chinese</title>
+	</head>
+	<body>
+		<outline text="Chinese" title="Chinese">
+			<outline text="美洲台灣日報" title="美洲台灣日報" type="rss" xmlUrl="https://www.taiwandaily.net/feed/"/>
+			<outline text="国际 | 東方網 馬來西亞東方日報" title="国际 | 東方網 馬來西亞東方日報" type="rss" xmlUrl="https://www.orientaldaily.com.my/feeds/rss/international"/>
+			<outline text="星島頭條網" title="星島頭條網" type="rss" xmlUrl="https://www.stheadline.com/rss"/>
+			<outline text="即時新聞 - 自由時報" title="即時新聞 - 自由時報" type="rss" xmlUrl="https://news.ltn.com.tw/rss/all.xml"/>
+		</outline>
+	</body>
+</opml>

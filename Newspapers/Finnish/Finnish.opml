@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Finnish
+		</title>
+	</head>
+	<body>
+		<outline text="Finnish" title="Finnish">
+			<outline text="Yle Uutiset | Pääuutiset" title="Yle Uutiset | Pääuutiset" type="rss" xmlUrl="https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"/>
+			<outline text="Ulkomaat - Helsingin Sanomat" title="Ulkomaat - Helsingin Sanomat" type="rss" xmlUrl="https://www.hs.fi/rss/ulkomaat.xml"/>
+			<outline text="Ilkka Pohjalainen" title="Ilkka Pohjalainen" type="rss" xmlUrl="https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"/>
+			<outline text="Aamuposti" title="Aamuposti" type="rss" xmlUrl="https://www.aamuposti.fi/feed/rss"/>
+		</outline>
+	</body>
+</opml>

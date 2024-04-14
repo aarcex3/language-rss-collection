@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Hebrew
+		</title>
+	</head>
+	<body>
+		<outline text="Hebrew" title="Hebrew">
+			<outline text="חדשות בעולם - כל העדכונים והדיווחים מסביב לעולם" title="חדשות בעולם - כל העדכונים והדיווחים מסביב לעולם" type="rss" xmlUrl="https://rss.walla.co.il/feed/2"/>
+			<outline text="Israeli Hayom" title="Israeli Hayom" type="rss" xmlUrl="https://www.israelhayom.co.il/rss.xml"/>
+			<outline text="Aurora" title="Aurora" type="rss" xmlUrl="https://aurora-israel.co.il/feed/"/>
+			<outline text="זמן ישראל" title="זמן ישראל" type="rss" xmlUrl="https://www.zman.co.il/feed/"/>
+		</outline>
+	</body>
+</opml>

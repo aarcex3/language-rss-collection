@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Ukranian
+		</title>
+	</head>
+	<body>
+		<outline text="Ukranian" title="Ukranian">
+			<outline text="Telegraf" title="Telegraf" type="rss" xmlUrl="https://telegraf.com.ua/ukr/rss"/>
+			<outline text="KyivPost" title="KyivPost" type="rss" xmlUrl="https://www.kyivpost.com/uk/feed"/>
+			<outline text="Антена онлайн" title="Антена онлайн" type="rss" xmlUrl="https://antenna.com.ua/feed"/>
+			<outline text="Gazeta.ua" title="Gazeta.ua" type="rss" xmlUrl="https://gazeta.ua/rss"/>
+		</outline>
+	</body>
+</opml>

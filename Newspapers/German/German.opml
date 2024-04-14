@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in German
+		</title>
+	</head>
+	<body>
+		<outline text="German" title="German">
+			<outline text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" type="rss" xmlUrl="https://newsfeed.zeit.de/index"/>
+			<outline text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" type="rss" xmlUrl="https://www.faz.net/rss/aktuell/"/>
+			<outline text="Deutsche Welle" title="Deutsche Welle" type="rss" xmlUrl="https://rss.dw.com/xml/rss-de-all"/>
+			<outline text="Nachrichten - WELT" title="Nachrichten - WELT" type="rss" xmlUrl="https://www.welt.de/feeds/latest.rss"/>
+			<outline text="quarks.de" title="quarks.de" type="rss" xmlUrl="https://www.quarks.de/feed/"/>
+			<outline text="wissenschaft.de" title="wissenschaft.de" type="rss" xmlUrl="https://www.wissenschaft.de/feed-wissenschaft"/>
+			<outline text="Wissen - SZ.de" title="Wissen - SZ.de" type="rss" xmlUrl="https://rss.sueddeutsche.de/rss/Wissen"/>
+			<outline text="scinexx | Das Wissensmagazin" title="scinexx | Das Wissensmagazin" type="rss" xmlUrl="https://www.scinexx.de/feed/"/>
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Georgian
+		</title>
+	</head>
+	<body>
+		<outline text="Georgian" title="Georgian">
+			<outline text="Civil Georgia" title="Civil Georgia" type="rss" xmlUrl="https://civil.ge/ka/feed"/>
+			<outline text="euronewsgeorgia.com" title="euronewsgeorgia.com" type="rss" xmlUrl="https://euronewsgeorgia.com/feed/"/>
+			<outline text="ჰო და არა" title="ჰო და არა" type="rss" xmlUrl="https://hodaara.ge/rss.xml"/>
+			<outline text="sarbieli" title="sarbieli" type="rss" xmlUrl="https://www.sarbieli.com/feed/"/>
+		</outline>
+	</body>
+</opml>

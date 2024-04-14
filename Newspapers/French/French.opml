@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in French
+		</title>
+	</head>
+	<body>
+		<outline text="French" title="French">
+			<outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" title="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+			<outline text="Le Figaro - International : Actualité internationale en direct" title="Le Figaro - International : Actualité internationale en direct" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_international.xml"/>
+			<outline text="France24" title="France24" type="rss" xmlUrl="https://www.france24.com/fr/rss"/>
+			<outline text="Mediapart" title="Mediapart" type="rss" xmlUrl="https://www.mediapart.fr/articles/feed"/>
+		</outline>
+	</body>
+</opml>

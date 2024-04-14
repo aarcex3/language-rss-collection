@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Norwegian
+		</title>
+	</head>
+	<body>
+		<outline text="Norwegian" title="Norwegian">
+			<outline text="Siste nytt fra VG" title="Siste nytt fra VG" type="rss" xmlUrl="https://www.vg.no/rss/feed/?format=rss"/>
+			<outline text="Aftenposten Title" title="Aftenposten Title" type="rss" xmlUrl="https://www.aftenposten.no/rss/"/>
+			<outline text="Nettavisen" title="Nettavisen" type="rss" xmlUrl="https://www.nettavisen.no/service/rich-rss"/>
+			<outline text="NRK" title="NRK" type="rss" xmlUrl="https://www.nrk.no/toppsaker.rss"/>
+			<outline text="Klartale Feeds" title="Klartale Feeds" type="rss" xmlUrl="https://www.klartale.no/arc/outboundfeeds/rss/"/>
+		</outline>
+	</body>
+</opml>

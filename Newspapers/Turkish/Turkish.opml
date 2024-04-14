@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Turkish
+		</title>
+	</head>
+	<body>
+		<outline text="Turkish" title="Turkish">
+			<outline text="Türkiye Gazetesi - Son Dakika Haber ve Güncel Haberler" title="Türkiye Gazetesi - Son Dakika Haber ve Güncel Haberler" type="rss" xmlUrl="https://www.turkiyegazetesi.com.tr/rss/manset"/>
+			<outline text="HABERTURK.COM" title="HABERTURK.COM" type="rss" xmlUrl="https://www.haberturk.com/rss"/>
+			<outline text="Sozcu Gazetesi - Haberler, son dakika haberleri, guncel haber, kose yazilari" title="Sozcu Gazetesi - Haberler, son dakika haberleri, guncel haber, kose yazilari" type="rss" xmlUrl="https://www.sozcu.com.tr/feeds-haberler"/>
+			<outline text="VOA Türkçe" title="VOA Türkçe" type="rss" xmlUrl="https://www.voaturkce.com/api/#feed"/>
+			<outline text="Dünya Haberleri - En Son Haber" title="Dünya Haberleri - En Son Haber" type="rss" xmlUrl="https://www.ensonhaber.com/rss/dunya.xml"/>
+		</outline>
+	</body>
+</opml>

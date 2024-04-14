@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newspapers in Czech</title>
+	</head>
+	<body>
+		<outline text="Czech" title="Czech">
+			<outline text="Pražský deník - Praha" title="Pražský deník - Praha" type="rss" xmlUrl="https://prazsky.denik.cz/rss/zpravy_region.html"/>
+			<outline text="Ahaonline.cz" title="Ahaonline.cz" type="rss" xmlUrl="https://www.ahaonline.cz/rss"/>
+			<outline text="Blesk.cz" title="Blesk.cz" type="rss" xmlUrl="https://www.blesk.cz/rss"/>
+			<outline text="Lidovky.cz – původní zprávy, analýzy, rozhovory" title="Lidovky.cz – původní zprávy, analýzy, rozhovory" type="rss" xmlUrl="https://servis.lidovky.cz/rss.aspx"/>
+		</outline>
+	</body>
+</opml>

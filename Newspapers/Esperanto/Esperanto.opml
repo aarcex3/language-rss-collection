@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Esperanto
+		</title>
+	</head>
+	<body>
+		<outline text="Esperanto" title="Esperanto">
+			<outline text="Global Voices en Esperanto" title="Global Voices en Esperanto" type="rss" xmlUrl="https://eo.globalvoices.org/feed/"/>
+			<outline text="Pola Retradio en Esperanto" title="Pola Retradio en Esperanto" type="rss" xmlUrl="https://pola-retradio.org/feed/"/>
+			<outline text="'Le Monde diplomatique' en Esperanto" title="'Le Monde diplomatique' en Esperanto" type="rss" xmlUrl="https://eo.mondediplo.com/?page=backend#feed"/>
+		</outline>
+	</body>
+</opml>

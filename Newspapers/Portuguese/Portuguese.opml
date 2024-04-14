@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Portuguese
+		</title>
+	</head>
+	<body>
+		<outline text="Portuguese" title="Portuguese">
+			<outline text="Folha de S.Paulo - Mundo" title="Folha de S.Paulo - Mundo" type="rss" xmlUrl="https://feeds.folha.uol.com.br/mundo/rss091.xml"/>
+			<outline text="O Dia" title="O Dia" type="rss" xmlUrl="https://odia.ig.com.br/_conteudo/ultimas-noticias/rss.xml"/>
+			<outline text="Jornal de Brasília" title="Jornal de Brasília" type="rss" xmlUrl="https://jornaldebrasilia.com.br/feed/"/>
+			<outline text="Agora - Principal" title="Agora - Principal" type="rss" xmlUrl="https://agora.folha.uol.com.br/agora/rss091.xml"/>
+		</outline>
+	</body>
+</opml>

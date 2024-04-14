@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Russian
+		</title>
+	</head>
+	<body>
+		<outline text="Russian" title="Russian">
+			<outline text="Известия" title="Известия" type="rss" xmlUrl="https://iz.ru/xml/rss/all.xml"/>
+			<outline text="The Moscow Times" title="The Moscow Times" type="rss" xmlUrl="https://www.moscowtimes.ru/rss/news"/>
+			<outline text="Новая Газета" title="Новая Газета" type="rss" xmlUrl="https://novayagazeta.ru/feed/rss"/>
+			<outline text="NEWSru.com :: В мире" title="NEWSru.com :: В мире" type="rss" xmlUrl="https://rss.newsru.com/world"/>
+		</outline>
+	</body>
+</opml>

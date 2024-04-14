@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Islandic
+		</title>
+	</head>
+	<body>
+		<outline text="Islandic" title="Islandic">
+			<outline text="mbl.is - Forsíðufréttir" title="mbl.is - Forsíðufréttir" type="rss" xmlUrl="https://www.mbl.is/feeds/fp/"/>
+			<outline text="Allar fréttir" title="Allar fréttir" type="rss" xmlUrl="https://www.visir.is/rss/allt"/>
+			<outline text="Bæjarins Besta" title="Bæjarins Besta" type="rss" xmlUrl="https://www.bb.is/feed/"/>
+			<outline text="Eyjafréttir" title="Eyjafréttir" type="rss" xmlUrl="https://eyjafrettir.is/feed/"/>
+		</outline>
+	</body>
+</opml>

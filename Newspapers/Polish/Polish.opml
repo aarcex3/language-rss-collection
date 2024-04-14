@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Polish
+		</title>
+	</head>
+	<body>
+		<outline text="Polish" title="Polish">
+			<outline text="Rzeczpospolita" title="Rzeczpospolita" type="rss" xmlUrl="https://www.rp.pl/rss_main"/>
+			<outline text="Wyborcza" title="Wyborcza" type="rss" xmlUrl="http://rss.gazeta.pl/pub/rss/gazetawyborcza_kraj.xml"/>
+			<outline text="Fakt" title="Fakt" type="rss" xmlUrl="https://www.fakt.pl/rss"/>
+			<outline text="Gazeta Krakowska" title="Gazeta Krakowska" type="rss" xmlUrl="https://gazetakrakowska.pl/rss"/>
+		</outline>
+	</body>
+</opml>

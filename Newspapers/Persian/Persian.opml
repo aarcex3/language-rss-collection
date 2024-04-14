@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Persian
+		</title>
+	</head>
+	<body>
+		<outline text="Persian" title="Persian">
+			<outline text="تازه‌ترین خبرها از یورونیوز | Euronews RSS" title="تازه‌ترین خبرها از یورونیوز | Euronews RSS" type="rss" xmlUrl="https://parsi.euronews.com/rss"/>
+			<outline text="BBC فارسی" title="BBC فارسی" type="rss" xmlUrl="https://feeds.bbci.co.uk/persian/rss.xml"/>
+			<outline text="پايگاه خبری افکارنيوز" title="پايگاه خبری افکارنيوز" type="rss" xmlUrl="https://www.afkarnews.com/feeds/"/>
+			<outline text="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" title="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" type="rss" xmlUrl="https://donya-e-eqtesad.com/feeds/"/>
+		</outline>
+	</body>
+</opml>

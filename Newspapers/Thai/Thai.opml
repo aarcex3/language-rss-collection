@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Thai
+		</title>
+	</head>
+	<body>
+		<outline text="Thai" title="Thai">
+			<outline text="ข่าว" title="ข่าว" type="rss" xmlUrl="https://www.khaophuket.com/rss-xml/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7.xml"/>
+			<outline text="ข่าวไทยรัฐออนไลน์ - ข่าวข่าว" title="ข่าวไทยรัฐออนไลน์ - ข่าวข่าว" type="rss" xmlUrl="https://www.thairath.co.th/rss/news"/>
+			<outline text="Thaiger ข่าวไทย" title="Thaiger ข่าวไทย" type="rss" xmlUrl="https://thethaiger.com/th/feed/"/>
+			<outline text="มติชนออนไลน์" title="มติชนออนไลน์" type="rss" xmlUrl="https://www.matichon.co.th/feed"/>
+		</outline>
+	</body>
+</opml>

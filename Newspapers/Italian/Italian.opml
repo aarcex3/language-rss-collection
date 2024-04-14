@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Italian
+		</title>
+	</head>
+	<body>
+		<outline text="Italian" title="Italian">
+			<outline text="EasyItalianNews.com" title="EasyItalianNews.com" type="rss" xmlUrl="https://easyitaliannews.com/feed/"/>
+			<outline text="RaiNews" title="RaiNews" type="rss" xmlUrl="https://www.rainews.it/rss/tutti"/>
+			<outline text="Internazionale" title="Internazionale" type="rss" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
+			<outline text="Abitare" title="Abitare" type="rss" xmlUrl="https://www.abitare.it/it/feed/"/>
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Newspapers in Greek
+		</title>
+	</head>
+	<body>
+		<outline text="Greek" title="Greek">
+			<outline text="Politischios" title="Politischios" type="rss" xmlUrl="https://www.politischios.gr/rss.xml"/>
+			<outline text="Adapokrites" title="Adapokrites" type="rss" xmlUrl="https://adapokrites.gr/feed/"/>
+			<outline text="AthlitikaNea.gr Αθλητικά νέα στην Ελλάδα και το εξωτερικό" title="AthlitikaNea.gr Αθλητικά νέα στην Ελλάδα και το εξωτερικό" type="rss" xmlUrl="https://www.athlitikanea.gr/feeds/posts/default"/>
+			<outline text="Ελληνικό Φαινόμενο | Νίκος Βάνης" title="Ελληνικό Φαινόμενο | Νίκος Βάνης" type="rss" xmlUrl="https://elliniko-fenomeno.gr/feed/"/>
+		</outline>
+	</body>
+</opml>

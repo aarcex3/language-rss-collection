@@ -8,31 +8,37 @@
 			<outline text="美洲台灣日報" title="美洲台灣日報" type="rss" xmlUrl="https://www.taiwandaily.net/feed/"/>
 			<outline text="国际 | 東方網 馬來西亞東方日報" title="国际 | 東方網 馬來西亞東方日報" type="rss" xmlUrl="https://www.orientaldaily.com.my/feeds/rss/international"/>
 			<outline text="星島頭條網" title="星島頭條網" type="rss" xmlUrl="https://www.stheadline.com/rss"/>
-			<outline text="即時新聞 - 自由時報" title="即時新聞 - 自由時報" type="rss" xmlUrl="https://news.ltn.com.tw/rss/all.xml"/></outline>
+			<outline text="即時新聞 - 自由時報" title="即時新聞 - 自由時報" type="rss" xmlUrl="https://news.ltn.com.tw/rss/all.xml"/>
+		</outline>
 		<outline text="Czech" title="Czech">
 			<outline text="Pražský deník - Praha" title="Pražský deník - Praha" type="rss" xmlUrl="https://prazsky.denik.cz/rss/zpravy_region.html"/>
 			<outline text="Ahaonline.cz" title="Ahaonline.cz" type="rss" xmlUrl="https://www.ahaonline.cz/rss"/>
 			<outline text="Blesk.cz" title="Blesk.cz" type="rss" xmlUrl="https://www.blesk.cz/rss"/>
-			<outline text="Lidovky.cz – původní zprávy, analýzy, rozhovory" title="Lidovky.cz – původní zprávy, analýzy, rozhovory" type="rss" xmlUrl="https://servis.lidovky.cz/rss.aspx"/></outline>
+			<outline text="Lidovky.cz – původní zprávy, analýzy, rozhovory" title="Lidovky.cz – původní zprávy, analýzy, rozhovory" type="rss" xmlUrl="https://servis.lidovky.cz/rss.aspx"/>
+		</outline>
 		<outline text="Esperanto" title="Esperanto">
 			<outline text="Global Voices en Esperanto" title="Global Voices en Esperanto" type="rss" xmlUrl="https://eo.globalvoices.org/feed/"/>
 			<outline text="Pola Retradio en Esperanto" title="Pola Retradio en Esperanto" type="rss" xmlUrl="https://pola-retradio.org/feed/"/>
-			<outline text="'Le Monde diplomatique' en Esperanto" title="'Le Monde diplomatique' en Esperanto" type="rss" xmlUrl="https://eo.mondediplo.com/?page=backend#feed"/></outline>
+			<outline text="'Le Monde diplomatique' en Esperanto" title="'Le Monde diplomatique' en Esperanto" type="rss" xmlUrl="https://eo.mondediplo.com/?page=backend#feed"/>
+		</outline>
 		<outline text="Finnish" title="Finnish">
 			<outline text="Yle Uutiset | Pääuutiset" title="Yle Uutiset | Pääuutiset" type="rss" xmlUrl="https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"/>
 			<outline text="Ulkomaat - Helsingin Sanomat" title="Ulkomaat - Helsingin Sanomat" type="rss" xmlUrl="https://www.hs.fi/rss/ulkomaat.xml"/>
 			<outline text="Ilkka Pohjalainen" title="Ilkka Pohjalainen" type="rss" xmlUrl="https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"/>
-			<outline text="Aamuposti" title="Aamuposti" type="rss" xmlUrl="https://www.aamuposti.fi/feed/rss"/></outline>
+			<outline text="Aamuposti" title="Aamuposti" type="rss" xmlUrl="https://www.aamuposti.fi/feed/rss"/>
+		</outline>
 		<outline text="French" title="French">
 			<outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" title="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
 			<outline text="Le Figaro - International : Actualité internationale en direct" title="Le Figaro - International : Actualité internationale en direct" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_international.xml"/>
 			<outline text="France24" title="France24" type="rss" xmlUrl="https://www.france24.com/fr/rss"/>
-			<outline text="Mediapart" title="Mediapart" type="rss" xmlUrl="https://www.mediapart.fr/articles/feed"/></outline>
+			<outline text="Mediapart" title="Mediapart" type="rss" xmlUrl="https://www.mediapart.fr/articles/feed"/>
+		</outline>
 		<outline text="Georgian" title="Georgian">
 			<outline text="Civil Georgia" title="Civil Georgia" type="rss" xmlUrl="https://civil.ge/ka/feed"/>
 			<outline text="euronewsgeorgia.com" title="euronewsgeorgia.com" type="rss" xmlUrl="https://euronewsgeorgia.com/feed/"/>
 			<outline text="ჰო და არა" title="ჰო და არა" type="rss" xmlUrl="https://hodaara.ge/rss.xml"/>
-			<outline text="sarbieli" title="sarbieli" type="rss" xmlUrl="https://www.sarbieli.com/feed/"/></outline>
+			<outline text="sarbieli" title="sarbieli" type="rss" xmlUrl="https://www.sarbieli.com/feed/"/>
+		</outline>
 		<outline text="German" title="German">
 			<outline text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" type="rss" xmlUrl="https://newsfeed.zeit.de/index"/>
 			<outline text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" type="rss" xmlUrl="https://www.faz.net/rss/aktuell/"/>
@@ -41,73 +47,87 @@
 			<outline text="quarks.de" title="quarks.de" type="rss" xmlUrl="https://www.quarks.de/feed/"/>
 			<outline text="wissenschaft.de" title="wissenschaft.de" type="rss" xmlUrl="https://www.wissenschaft.de/feed-wissenschaft"/>
 			<outline text="Wissen - SZ.de" title="Wissen - SZ.de" type="rss" xmlUrl="https://rss.sueddeutsche.de/rss/Wissen"/>
-			<outline text="scinexx | Das Wissensmagazin" title="scinexx | Das Wissensmagazin" type="rss" xmlUrl="https://www.scinexx.de/feed/"/></outline>
+			<outline text="scinexx | Das Wissensmagazin" title="scinexx | Das Wissensmagazin" type="rss" xmlUrl="https://www.scinexx.de/feed/"/>
+		</outline>
 		<outline text="Greek" title="Greek">
 			<outline text="Politischios" title="Politischios" type="rss" xmlUrl="https://www.politischios.gr/rss.xml"/>
 			<outline text="Adapokrites" title="Adapokrites" type="rss" xmlUrl="https://adapokrites.gr/feed/"/>
 			<outline text="AthlitikaNea.gr Αθλητικά νέα στην Ελλάδα και το εξωτερικό" title="AthlitikaNea.gr Αθλητικά νέα στην Ελλάδα και το εξωτερικό" type="rss" xmlUrl="https://www.athlitikanea.gr/feeds/posts/default"/>
-			<outline text="Ελληνικό Φαινόμενο | Νίκος Βάνης" title="Ελληνικό Φαινόμενο | Νίκος Βάνης" type="rss" xmlUrl="https://elliniko-fenomeno.gr/feed/"/></outline>
+			<outline text="Ελληνικό Φαινόμενο | Νίκος Βάνης" title="Ελληνικό Φαινόμενο | Νίκος Βάνης" type="rss" xmlUrl="https://elliniko-fenomeno.gr/feed/"/>
+		</outline>
 		<outline text="Hebrew" title="Hebrew">
 			<outline text="חדשות בעולם - כל העדכונים והדיווחים מסביב לעולם" title="חדשות בעולם - כל העדכונים והדיווחים מסביב לעולם" type="rss" xmlUrl="https://rss.walla.co.il/feed/2"/>
 			<outline text="Israeli Hayom" title="Israeli Hayom" type="rss" xmlUrl="https://www.israelhayom.co.il/rss.xml"/>
 			<outline text="Aurora" title="Aurora" type="rss" xmlUrl="https://aurora-israel.co.il/feed/"/>
-			<outline text="זמן ישראל" title="זמן ישראל" type="rss" xmlUrl="https://www.zman.co.il/feed/"/></outline>
-		<outline text="Italian" title="Italian">
-			<outline text="EasyItalianNews.com" title="EasyItalianNews.com" type="rss" xmlUrl="https://easyitaliannews.com/feed/"/>
-			<outline text="RaiNews" title="RaiNews" type="rss" xmlUrl="https://www.rainews.it/rss/tutti"/>
-			<outline text="Internazionale" title="Internazionale" type="rss" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
-			<outline text="Abitare" title="Abitare" type="rss" xmlUrl="https://www.abitare.it/it/feed/"/></outline>
+			<outline text="זמן ישראל" title="זמן ישראל" type="rss" xmlUrl="https://www.zman.co.il/feed/"/>
+		</outline>
 		<outline text="Islandic" title="Islandic">
 			<outline text="mbl.is - Forsíðufréttir" title="mbl.is - Forsíðufréttir" type="rss" xmlUrl="https://www.mbl.is/feeds/fp/"/>
 			<outline text="Allar fréttir" title="Allar fréttir" type="rss" xmlUrl="https://www.visir.is/rss/allt"/>
 			<outline text="Bæjarins Besta" title="Bæjarins Besta" type="rss" xmlUrl="https://www.bb.is/feed/"/>
-			<outline text="Eyjafréttir" title="Eyjafréttir" type="rss" xmlUrl="https://eyjafrettir.is/feed/"/></outline>
+			<outline text="Eyjafréttir" title="Eyjafréttir" type="rss" xmlUrl="https://eyjafrettir.is/feed/"/>
+		</outline>
+		<outline text="Italian" title="Italian">
+			<outline text="EasyItalianNews.com" title="EasyItalianNews.com" type="rss" xmlUrl="https://easyitaliannews.com/feed/"/>
+			<outline text="RaiNews" title="RaiNews" type="rss" xmlUrl="https://www.rainews.it/rss/tutti"/>
+			<outline text="Internazionale" title="Internazionale" type="rss" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
+			<outline text="Abitare" title="Abitare" type="rss" xmlUrl="https://www.abitare.it/it/feed/"/>
+		</outline>
 		<outline text="Japanese" title="Japanese">
 			<outline text="沖縄タイムス＋プラス | 沖縄の最新ニュースサイト" title="沖縄タイムス＋プラス | 沖縄の最新ニュースサイト" type="rss" xmlUrl="https://www.okinawatimes.co.jp/list/feed/rss"/>
 			<outline text="株式会社共同通信社" title="株式会社共同通信社" type="rss" xmlUrl="https://www.kyodo.co.jp/feed/"/>
 			<outline text="朝日新聞デジタル" title="朝日新聞デジタル" type="rss" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf"/>
-			<outline text="福井新聞" title="福井新聞" type="rss" xmlUrl="https://www.fukuishimbun.co.jp/list/feed/rss"/></outline>
+			<outline text="福井新聞" title="福井新聞" type="rss" xmlUrl="https://www.fukuishimbun.co.jp/list/feed/rss"/>
+		</outline>
 		<outline text="Norwegian" title="Norwegian">
 			<outline text="Siste nytt fra VG" title="Siste nytt fra VG" type="rss" xmlUrl="https://www.vg.no/rss/feed/?format=rss"/>
 			<outline text="Aftenposten Title" title="Aftenposten Title" type="rss" xmlUrl="https://www.aftenposten.no/rss/"/>
 			<outline text="Nettavisen" title="Nettavisen" type="rss" xmlUrl="https://www.nettavisen.no/service/rich-rss"/>
 			<outline text="NRK" title="NRK" type="rss" xmlUrl="https://www.nrk.no/toppsaker.rss"/>
-			<outline text="Klartale Feeds" title="Klartale Feeds" type="rss" xmlUrl="https://www.klartale.no/arc/outboundfeeds/rss/"/></outline>
+			<outline text="Klartale Feeds" title="Klartale Feeds" type="rss" xmlUrl="https://www.klartale.no/arc/outboundfeeds/rss/"/>
+		</outline>
 		<outline text="Persian" title="Persian">
 			<outline text="تازه‌ترین خبرها از یورونیوز | Euronews RSS" title="تازه‌ترین خبرها از یورونیوز | Euronews RSS" type="rss" xmlUrl="https://parsi.euronews.com/rss"/>
 			<outline text="BBC فارسی" title="BBC فارسی" type="rss" xmlUrl="https://feeds.bbci.co.uk/persian/rss.xml"/>
 			<outline text="پايگاه خبری افکارنيوز" title="پايگاه خبری افکارنيوز" type="rss" xmlUrl="https://www.afkarnews.com/feeds/"/>
-			<outline text="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" title="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" type="rss" xmlUrl="https://donya-e-eqtesad.com/feeds/"/></outline>
+			<outline text="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" title="روزنامه دنیای اقتصاد | پرمخاطب ترین روزنامه اقتصادی کشور" type="rss" xmlUrl="https://donya-e-eqtesad.com/feeds/"/>
+		</outline>
 		<outline text="Polish" title="Polish">
 			<outline text="Rzeczpospolita" title="Rzeczpospolita" type="rss" xmlUrl="https://www.rp.pl/rss_main"/>
 			<outline text="Wyborcza" title="Wyborcza" type="rss" xmlUrl="http://rss.gazeta.pl/pub/rss/gazetawyborcza_kraj.xml"/>
 			<outline text="Fakt" title="Fakt" type="rss" xmlUrl="https://www.fakt.pl/rss"/>
-			<outline text="Gazeta Krakowska" title="Gazeta Krakowska" type="rss" xmlUrl="https://gazetakrakowska.pl/rss"/></outline>
+			<outline text="Gazeta Krakowska" title="Gazeta Krakowska" type="rss" xmlUrl="https://gazetakrakowska.pl/rss"/>
+		</outline>
 		<outline text="Portuguese" title="Portuguese">
 			<outline text="Folha de S.Paulo - Mundo" title="Folha de S.Paulo - Mundo" type="rss" xmlUrl="https://feeds.folha.uol.com.br/mundo/rss091.xml"/>
 			<outline text="O Dia" title="O Dia" type="rss" xmlUrl="https://odia.ig.com.br/_conteudo/ultimas-noticias/rss.xml"/>
 			<outline text="Jornal de Brasília" title="Jornal de Brasília" type="rss" xmlUrl="https://jornaldebrasilia.com.br/feed/"/>
-			<outline text="Agora - Principal" title="Agora - Principal" type="rss" xmlUrl="https://agora.folha.uol.com.br/agora/rss091.xml"/></outline>
+			<outline text="Agora - Principal" title="Agora - Principal" type="rss" xmlUrl="https://agora.folha.uol.com.br/agora/rss091.xml"/>
+		</outline>
 		<outline text="Russian" title="Russian">
 			<outline text="Известия" title="Известия" type="rss" xmlUrl="https://iz.ru/xml/rss/all.xml"/>
 			<outline text="The Moscow Times" title="The Moscow Times" type="rss" xmlUrl="https://www.moscowtimes.ru/rss/news"/>
 			<outline text="Новая Газета" title="Новая Газета" type="rss" xmlUrl="https://novayagazeta.ru/feed/rss"/>
-			<outline text="NEWSru.com :: В мире" title="NEWSru.com :: В мире" type="rss" xmlUrl="https://rss.newsru.com/world"/></outline>
-		<outline text="Ukranian" title="Ukranian">
-			<outline text="Telegraf" title="Telegraf" type="rss" xmlUrl="https://telegraf.com.ua/ukr/rss"/>
-			<outline text="KyivPost" title="KyivPost" type="rss" xmlUrl="https://www.kyivpost.com/uk/feed"/>
-			<outline text="Антена онлайн" title="Антена онлайн" type="rss" xmlUrl="https://antenna.com.ua/feed"/>
-			<outline text="Gazeta.ua" title="Gazeta.ua" type="rss" xmlUrl="https://gazeta.ua/rss"/></outline>
+			<outline text="NEWSru.com :: В мире" title="NEWSru.com :: В мире" type="rss" xmlUrl="https://rss.newsru.com/world"/>
+		</outline>
 		<outline text="Thai" title="Thai">
 			<outline text="ข่าว" title="ข่าว" type="rss" xmlUrl="https://www.khaophuket.com/rss-xml/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7.xml"/>
 			<outline text="ข่าวไทยรัฐออนไลน์ - ข่าวข่าว" title="ข่าวไทยรัฐออนไลน์ - ข่าวข่าว" type="rss" xmlUrl="https://www.thairath.co.th/rss/news"/>
 			<outline text="Thaiger ข่าวไทย" title="Thaiger ข่าวไทย" type="rss" xmlUrl="https://thethaiger.com/th/feed/"/>
-			<outline text="มติชนออนไลน์" title="มติชนออนไลน์" type="rss" xmlUrl="https://www.matichon.co.th/feed"/></outline>
+			<outline text="มติชนออนไลน์" title="มติชนออนไลน์" type="rss" xmlUrl="https://www.matichon.co.th/feed"/>
+		</outline>
 		<outline text="Turkish" title="Turkish">
 			<outline text="Türkiye Gazetesi - Son Dakika Haber ve Güncel Haberler" title="Türkiye Gazetesi - Son Dakika Haber ve Güncel Haberler" type="rss" xmlUrl="https://www.turkiyegazetesi.com.tr/rss/manset"/>
 			<outline text="HABERTURK.COM" title="HABERTURK.COM" type="rss" xmlUrl="https://www.haberturk.com/rss"/>
 			<outline text="Sozcu Gazetesi - Haberler, son dakika haberleri, guncel haber, kose yazilari" title="Sozcu Gazetesi - Haberler, son dakika haberleri, guncel haber, kose yazilari" type="rss" xmlUrl="https://www.sozcu.com.tr/feeds-haberler"/>
 			<outline text="VOA Türkçe" title="VOA Türkçe" type="rss" xmlUrl="https://www.voaturkce.com/api/#feed"/>
-			<outline text="Dünya Haberleri - En Son Haber" title="Dünya Haberleri - En Son Haber" type="rss" xmlUrl="https://www.ensonhaber.com/rss/dunya.xml"/></outline>
+			<outline text="Dünya Haberleri - En Son Haber" title="Dünya Haberleri - En Son Haber" type="rss" xmlUrl="https://www.ensonhaber.com/rss/dunya.xml"/>
+		</outline>
+		<outline text="Ukranian" title="Ukranian">
+			<outline text="Telegraf" title="Telegraf" type="rss" xmlUrl="https://telegraf.com.ua/ukr/rss"/>
+			<outline text="KyivPost" title="KyivPost" type="rss" xmlUrl="https://www.kyivpost.com/uk/feed"/>
+			<outline text="Антена онлайн" title="Антена онлайн" type="rss" xmlUrl="https://antenna.com.ua/feed"/>
+			<outline text="Gazeta.ua" title="Gazeta.ua" type="rss" xmlUrl="https://gazeta.ua/rss"/>
+		</outline>
 	</body>
 </opml>
