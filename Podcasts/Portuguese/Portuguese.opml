@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Portuguese</title>
+    </head>
+    <body>
+        <outline text="Portuguese">
+            <outline type="rss" text="Confins do Universo" title="Confins do Universo" xmlUrl="http://universohq.com/category/podcast/feed/?nocache"/>
+            <outline type="rss" text="História em Meia Hora" title="História em Meia Hora" xmlUrl="https://anchor.fm/s/122df228/podcast/rss"/>
+            <outline type="rss" text="Inteligência Ltda." title="Inteligência Ltda." xmlUrl="https://anchor.fm/s/6cf4d5a0/podcast/rss"/>
+            <outline type="rss" text="NerdCast" title="NerdCast" xmlUrl="https://api.jovemnerd.com.br/feed-nerdcast/"/>
+            <outline type="rss" text="Projeto Humanos: O Caso Leandro Bossi" title="Projeto Humanos: O Caso Leandro Bossi" xmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/220ec2a9-bb93-469e-aad7-acd8013110b7/11cd2462-4550-482d-88ea-acd8013110cf/podcast.rss"/>
+            <outline type="rss" text="Venus Podcast" title="Venus Podcast" xmlUrl="https://anchor.fm/s/a5676948/podcast/rss"/>
+        </outline>
+    </body>
+</opml>

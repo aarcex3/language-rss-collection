@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Norwegian</title>
+    </head>
+    <body>
+        <outline text="Norwegian">
+            <outline type="rss" text="Fluent Fiction - Norwegian" title="Fluent Fiction - Norwegian" xmlUrl="https://www.spreaker.com/show/5756189/episodes/feed"/>
+            <outline type="rss" text="Klar Tale" title="Klar Tale" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:205624409/sounds.rss"/>
+            <outline type="rss" text="Learn Norwegian Podcast" title="Learn Norwegian Podcast" xmlUrl="https://feeds.buzzsprout.com/2085024.rss"/>
+            <outline type="rss" text="Lær norsk nå!" title="Lær norsk nå!" xmlUrl="https://anchor.fm/s/19b5cbd8/podcast/rss"/>
+            <outline type="rss" text="Norsklærer Karense" title="Norsklærer Karense" xmlUrl="https://karense.podomatic.com/rss2.xml"/>
+            <outline type="rss" text="Norskpodden" title="Norskpodden" xmlUrl="https://feeds.captivate.fm/norskpodden/"/>
+            <outline type="rss" text="Relax With Slow Norwegian" title="Relax With Slow Norwegian" xmlUrl="https://feed.podbean.com/norskmedlene/feed.xml"/>
+        </outline>
+    </body>
+</opml>

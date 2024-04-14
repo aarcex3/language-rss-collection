@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Turkish</title>
+    </head>
+    <body>
+        <outline text="Turkish">
+            <outline type="rss" text="Barış Özcan ile 111 Hz" title="Barış Özcan ile 111 Hz" xmlUrl="https://rss.art19.com/baris-ozcan-ile-111-hz"/>
+            <outline type="rss" text="Biraz Konuşabilir miyiz?" title="Biraz Konuşabilir miyiz?" xmlUrl="https://anchor.fm/s/37c8ef88/podcast/rss"/>
+            <outline type="rss" text="Bu Mu Yani?" title="Bu Mu Yani?" xmlUrl="https://anchor.fm/s/4e883d8c/podcast/rss"/>
+            <outline type="rss" text="Fularsız Entellik" title="Fularsız Entellik" xmlUrl="https://rss.art19.com/fularsz-entellik"/>
+            <outline type="rss" text="Kendine İyi Davran" title="Kendine İyi Davran" xmlUrl="https://www.spreaker.com/show/2650490/episodes/feed"/>
+            <outline type="rss" text="Nasıl Olunur" title="Nasıl Olunur" xmlUrl="https://feeds.simplecast.com/TRRbx_5C"/>
+        </outline>
+    </body>
+</opml>

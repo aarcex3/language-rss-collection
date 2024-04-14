@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Japanese</title>
+    </head>
+    <body>
+        <outline text="Japanese">
+			<outline type="rss" text="Azumi’s Easy Japanese Small Talk" title="Azumi’s Easy Japanese Small Talk" xmlUrl="https://anchor.fm/s/c37e6f8/podcast/rss"/>
+			<outline type="rss" text="EASY JAPANESE PODCAST Learn Japanese with everyday conversations!" title="EASY JAPANESE PODCAST Learn Japanese with everyday conversations!" xmlUrl="https://anchor.fm/s/4986dac8/podcast/rss"/>
+			<outline type="rss" text="【英語×日本語】StudyInネイティブ英会話Podcast" title="【英語×日本語】StudyInネイティブ英会話Podcast" xmlUrl="https://anchor.fm/s/501836e8/podcast/rss"/>
+			<outline type="rss" text="日本語って！" title="日本語って！" xmlUrl="https://anchor.fm/s/61f5260/podcast/rss"/>
+			<outline type="rss" text="Learn Japanese from real talks" title="Learn Japanese from real talks" xmlUrl="https://anchor.fm/s/1c954db0/podcast/rss"/>
+			<outline type="rss" text="Learning Japanese with Keiko" title="Learning Japanese with Keiko" xmlUrl="https://anchor.fm/s/12adbd00/podcast/rss"/>
+			<outline type="rss" text="SBS Japanese - SBSの日本語放送" title="SBS Japanese - SBSの日本語放送" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-japanese/"/>
+			<outline type="rss" text="YUYUの日本語Podcast【Japanese Podcast】" title="YUYUの日本語Podcast【Japanese Podcast】" xmlUrl="https://anchor.fm/s/cda85d4/podcast/rss"/>
+	</outline>
+    </body>
+</opml>

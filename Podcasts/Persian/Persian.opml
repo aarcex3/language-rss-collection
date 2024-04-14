@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Persian</title>
+    </head>
+    <body>
+        <outline text="Persian">
+            <outline type="rss" text="Learn Persian with Chai and Conversation" title="Learn Persian with Chai and Conversation" xmlUrl="https://feeds.transistor.fm/chai-and-conversation"/>
+            <outline type="rss" text="Persian night story" title="Persian night story" xmlUrl="https://www.podcasts.com/rss_feed/d5e5ff870c6a26e5092004262fe47610"/>
+            <outline type="rss" text="SBS Persian - اس بی اس فارسی" title="SBS Persian - اس بی اس فارسی" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-persian/"/>
+            <outline type="rss" text="پرگار" title="پرگار" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9wf.rss"/>
+        </outline>
+    </body>
+</opml>

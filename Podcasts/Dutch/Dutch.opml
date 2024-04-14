@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Dutch</title>
+    </head>
+    <body>
+        <outline text="Dutch">
+            <outline type="rss" text="Met Groenteman in de kast" title="Met Groenteman in de kast" xmlUrl="https://www.omnycontent.com/d/playlist/33dbd2dc-d464-471d-9feb-abae00330078/1cb90b55-9624-4deb-8b7e-abae009442f7/a44454d0-6f9a-4b85-925a-abae0094430a/podcast.rss"/>
+            <outline type="rss" text="NRC Vandaag" title="NRC Vandaag" xmlUrl="https://rss.art19.com/vandaag"/>
+            <outline type="rss" text="SBS Dutch - SBS Nederlands" title="SBS Dutch - SBS Nederlands" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-dutch/"/>
+            <outline type="rss" text="de Volkskrant Elke Dag" title="de Volkskrant Elke Dag" xmlUrl="https://www.omnycontent.com/d/playlist/33dbd2dc-d464-471d-9feb-abae00330078/052ccb8e-7484-4095-bdba-acbc00f34a07/e1c18ea7-7349-4f07-a1e3-acbc00f36fe5/podcast.rss"/>
+        </outline>
+    </body>
+</opml>

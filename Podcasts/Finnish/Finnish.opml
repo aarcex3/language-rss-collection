@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Finnish</title>
+    </head>
+    <body>
+        <outline text="Finnish">
+            <outline type="rss" text="23 minuuttia" title="23 minuuttia" xmlUrl="https://anchor.fm/s/210e24fc/podcast/rss"/>
+            <outline type="rss" text="HS Visio -podcast" title="HS Visio -podcast" xmlUrl="https://anchor.fm/s/169d9214/podcast/rss"/>
+            <outline type="rss" text="Jäljillä" title="Jäljillä" xmlUrl="https://feed.pod.space/jaljilla"/>
+            <outline type="rss" text="Kauneimmat lastensadut" title="Kauneimmat lastensadut" xmlUrl="https://anchor.fm/s/4eb9e5a8/podcast/rss"/>
+            <outline type="rss" text="Lauantaikerho" title="Lauantaikerho" xmlUrl="https://anchor.fm/s/dad588e4/podcast/rss"/>
+            <outline type="rss" text="Mimmit sijoittaa" title="Mimmit sijoittaa" xmlUrl="https://rss.acast.com/mimmitsijoittaa"/>
+            <outline type="rss" text="Puheenaihe" title="Puheenaihe" xmlUrl="https://anchor.fm/s/91bd59c/podcast/rss"/>
+            <outline type="rss" text="SBS Finnish - SBS Finnish" title="SBS Finnish - SBS Finnish" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-finnish/"/>
+        </outline>
+    </body>
+</opml>

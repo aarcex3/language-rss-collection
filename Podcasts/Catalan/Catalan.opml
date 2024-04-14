@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Catalan</title>
+    </head>
+    <body>
+        <outline text="Catalan">
+            <outline type="rss" text="Crims" title="Crims" xmlUrl="http://dinamics.ccma.cat/public/podcast/catradio/xml/9/5/podprograma1859.xml"/>
+            <outline type="rss" text="Easy Catalan: Learn Catalan with everyday conversations" title="Easy Catalan: Learn Catalan with everyday conversations" xmlUrl="https://www.easycatalan.fm/rss"/>
+        </outline>
+    </body>
+</opml>

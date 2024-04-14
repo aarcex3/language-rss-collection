@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Italian</title>
+    </head>
+    <body>
+        <outline text="Italian">
+            <outline type="rss" text="Easy Italian: Learn Italian with real conversations | Imparare l'italiano con conversazioni reali" title="Easy Italian: Learn Italian with real conversations | Imparare l'italiano con conversazioni reali" xmlUrl="https://www.easyitalian.fm/rss"/>
+            <outline type="rss" text="Elisa True Crime" title="Elisa True Crime" xmlUrl="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/1e4b336a-52e9-4d74-8616-aeac00f7a647/77ea6e74-62bf-48f4-bf3b-aeac00f7a65a/podcast.rss"/>
+            <outline type="rss" text="Geopop - Le Scienze nella vita di tutti i giorni" title="Geopop - Le Scienze nella vita di tutti i giorni" xmlUrl="https://feeds.megaphone.fm/CPS2408869581"/>
+            <outline type="rss" text="Il Mondo" title="Il Mondo" xmlUrl="https://www.spreaker.com/show/5773405/episodes/feed"/>
+            <outline type="rss" text="Indagini" title="Indagini" xmlUrl="https://feeds.megaphone.fm/IPS8860333488"/>
+            <outline type="rss" text="Ma perché?" title="Ma perché?" xmlUrl="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/3fbddd6a-ef2f-494d-bdc7-af8f00f3c16f/73175d2f-b9a3-4deb-ba0d-af8f00f3c178/podcast.rss"/>
+            <outline type="rss" text="Muschio Selvaggio" title="Muschio Selvaggio" xmlUrl="https://anchor.fm/s/8a73ebc0/podcast/rss"/>
+            <outline type="rss" text="Non hanno un amico" title="Non hanno un amico" xmlUrl="https://feeds.megaphone.fm/BCS3841029693"/>
+            <outline type="rss" text="Stories" title="Stories" xmlUrl="https://feeds.megaphone.fm/GLT7160542006"/>
+        </outline>
+    </body>
+</opml>

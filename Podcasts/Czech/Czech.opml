@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Czech</title>
+    </head>
+    <body>
+        <outline text="Czech">
+            <outline type="rss" text="Prohnilí" title="Prohnilí" xmlUrl="https://feeds.transistor.fm/prohnili"/>
+            <outline type="rss" text="Ve vatě" title="Ve vatě" xmlUrl="https://feeds.transistor.fm/ve-vate"/>
+            <outline type="rss" text="Studio N" title="Studio N" xmlUrl="https://feed.podbean.com/denikn/feed.xml"/>
+        </outline>
+    </body>
+</opml>

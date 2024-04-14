@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Chinese</title>
+    </head>
+    <body>
+        <outline text='Chinese'>
+            <outline type="rss" text="One Chinese Word a Day" title="One Chinese Word a Day" xmlUrl="https://anchor.fm/s/1214ed78/podcast/rss"/>
+        </outline>
+    </body>
+</opml>

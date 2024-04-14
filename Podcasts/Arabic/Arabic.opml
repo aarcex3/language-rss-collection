@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Arabic</title>
+    </head>
+    <body>
+        <outline text="Arabic">
+            <outline type="rss" text="Droos Podcast - دروس بودكاست" title="Droos Podcast - دروس بودكاست" xmlUrl="https://anchor.fm/s/70850d5c/podcast/rss"/>
+            <outline type="rss" text="Eshtry menny - اشتري مني" title="Eshtry menny - اشتري مني" xmlUrl="https://feeds.buzzsprout.com/2175330.rss"/>
+            <outline type="rss" text="كفاية بقى - Kefaya Ba2a" title="كفاية بقى - Kefaya Ba2a" xmlUrl="https://feeds.buzzsprout.com/2265906.rss"/>
+            <outline type="rss" text="Simple &amp; Easy Arabic Podcast" title="Simple &amp; Easy Arabic Podcast" xmlUrl="https://anchor.fm/s/3a6ba870/podcast/rss"/>
+            <outline type="rss" text="كفاية بقى - Kefaya Ba2a" title="كفاية بقى - Kefaya Ba2a" xmlUrl="https://feeds.buzzsprout.com/2265906.rss"/>
+            <outline type="rss" text="كنبة السبت" title="كنبة السبت" xmlUrl="https://feeds.simplecast.com/2pgGD0og"/>
+            <outline type="rss" text="هدوء" title="هدوء" xmlUrl="https://feeds.simplecast.com/K_IzUz9C"/>
+            <outline type="rss" text="وعي" title="وعي" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1073536591/sounds.rss"/>
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in German</title>
+    </head>
+    <body>
+        <outline text="German">
+            <outline type="rss" text="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" title="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" xmlUrl="https://6byima.podcaster.de/deutschmitschmidt.rss"/>
+            <outline type="rss" text="Alles gesagt?" title="Alles gesagt?" xmlUrl="https://feeds.simplecast.com/Y_bRXaw2"/>
+            <outline type="rss" text="Alltagsdeutsch" title="Alltagsdeutsch" xmlUrl="https://iono.fm/rss/chan/2275"/>
+            <outline type="rss" text="Apokalypse &amp; Filterkaffee" title="Apokalypse &amp; Filterkaffee" xmlUrl="https://apokalypse-und-filterkaffee.podigee.io/feed/mp3"/>
+            <outline type="rss" text="Auf Deutsch gesagt!" title="Auf Deutsch gesagt!" xmlUrl="https://feeds.acast.com/public/shows/63cfc6d668877900110ea42a"/>
+            <outline type="rss" text="Baywatch Berlin" title="Baywatch Berlin" xmlUrl="https://baywatch-berlin.podigee.io/feed/mp3"/>
+            <outline type="rss" text="Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern" title="Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern" xmlUrl="https://www.easygerman.org/podcast/rss"/>
+            <outline type="rss" text="Eine Stunde History - Deutschlandfunk Nova" title="Eine Stunde History - Deutschlandfunk Nova" xmlUrl="https://www.deutschlandfunknova.de/podcast/eine-stunde-history"/>
+            <outline type="rss" text="Geht da noch was?" title="Geht da noch was?" xmlUrl="https://feeds.simplecast.com/8hfq14id"/>
+            <outline type="rss" text="Kack &amp; Sachgeschichten" title="Kack &amp; Sachgeschichten" xmlUrl="https://kackundsach.podigee.io/feed/mp3"/>
+            <outline type="rss" text="LANZ &amp; PRECHT" title="LANZ &amp; PRECHT" xmlUrl="https://lanz-precht.podigee.io/feed/mp3"/>
+            <outline type="rss" text="Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen" title="Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen" xmlUrl="https://rss.dw.com/xml/DKpodcast_lgn_de"/>
+            <outline type="rss" text="Learn German Podcast | Deutsch lernen | ExpertlyGerman.com" title="Learn German Podcast | Deutsch lernen | ExpertlyGerman.com" xmlUrl="https://anchor.fm/s/2a5bbf9c/podcast/rss"/>
+            <outline type="rss" text="News in Slow German" title="News in Slow German" xmlUrl="https://newsinslowgerman.libsyn.com/rss"/>
+            <outline type="rss" text="Quarks" title="Quarks" xmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-quarks-und-co-100.podcast"/>
+            <outline type="rss" text="SBS German - SBS Deutsch" title="SBS German - SBS Deutsch" xmlUrl="https://sbs-ondemand.streamguys1.com/sbs-german/"/>
+            <outline type="rss" text="SWR2 Wissen" title="SWR2 Wissen" xmlUrl="https://www.swr.de/~podcast/swr2/programm/podcast-swr2-wissen-100.xml"/>
+            <outline type="rss" text="Slow German" title="Slow German" xmlUrl="https://feeds.podcastmirror.com/slowgerman"/>
+            <outline type="rss" text="Sozusagen!" title="Sozusagen!" xmlUrl="https://feeds.br.de/sozusagen/feed.xml"/>
+            <outline type="rss" text="glutenfreieralltag" title="glutenfreieralltag" xmlUrl="https://anchor.fm/s/a4e4f594/podcast/rss"/>
+            <outline type="rss" text="radioWissen" title="radioWissen" xmlUrl="https://feeds.br.de/radiowissen/feed.xml"/>
+            <outline type="rss" text="Verbrechen" title="Verbrechen" xmlUrl="https://feeds.simplecast.com/dnJhzmyN"/>
+            <outline type="rss" text="Was jetzt?" title="Was jetzt?" xmlUrl="https://feeds.simplecast.com/Xtqjn37O"/>
+            <outline type="rss" text="ZEIT Geschichte. Wie war das noch mal?" title="ZEIT Geschichte. Wie war das noch mal?" xmlUrl="https://feeds.simplecast.com/DV4gq1zP"/>
+            <outline type="rss" text="Top-Thema mit Vokabeln | Audios | DW Deutsch lernen" title="Top-Thema mit Vokabeln | Audios | DW Deutsch lernen" xmlUrl="https://rss.dw.com/xml/DKpodcast_topthemamitvokabeln_de"/>
+            <outline type="rss" text="Weird Crimes" title="Weird Crimes" xmlUrl="https://weird-crimes.podigee.io/feed/mp3"/>
+        </outline>
+    </body>
+</opml>

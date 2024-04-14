@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Russian</title>
+    </head>
+    <body>
+        <outline text="Russian">
+            <outline type="rss" text="Comprehensible Russian Podcast | Learn Russian with Max" title="Comprehensible Russian Podcast | Learn Russian with Max" xmlUrl="https://anchor.fm/s/6f65684/podcast/rss"/>
+            <outline type="rss" text="Russian Progress Podcast" title="Russian Progress Podcast" xmlUrl="https://russianprogress.com/category/%d0%bf%d0%be%d0%b4%d0%ba%d0%b0%d1%81%d1%82%d1%8b/feed/"/>
+            <outline type="rss" text="Мы все умрем. Но это не точно" title="Мы все умрем. Но это не точно" xmlUrl="https://feeds.simplecast.com/85OD7K0z"/>
+            <outline type="rss" text="Начнем с понедельника" title="Начнем с понедельника" xmlUrl="https://cloud.mave.digital/36922"/>
+            <outline type="rss" text="Не учи меня жить" title="Не учи меня жить" xmlUrl="https://mavecloud.s3mts.ru/storage/feeds/33220.xml"/>
+            <outline type="rss" text="Осторожно: утро!" title="Осторожно: утро!" xmlUrl="https://cloud.mave.digital/33978"/>
+            <outline type="rss" text="Очень по-русски" title="Очень по-русски" xmlUrl="https://feeds.feedburner.com/ochenporusski"/>
+            <outline type="rss" text="Пост правди" title="Пост правди" xmlUrl="https://feeds.simplecast.com/_Tq1zcrn"/>
+            <outline type="rss" text="Простими словами" title="Простими словами" xmlUrl="https://anchor.fm/s/1045de80/podcast/rss"/>
+            <outline type="rss" text="Психология с Александрой Яковлевой" title="Психология с Александрой Яковлевой" xmlUrl="https://cloud.mave.digital/43611"/>
+            <outline type="rss" text="Слушай, это просто" title="Слушай, это просто" xmlUrl="https://cloud.mave.digital/37124"/>
+            <outline type="rss" text="Ты – это важно" title="Ты – это важно" xmlUrl="https://cloud.mave.digital/33215"/>
+            <outline type="rss" text="В предыдущих сериях" title="В предыдущих сериях" xmlUrl="https://feeds.simplecast.com/TicU3npd"/>
+            <outline type="rss" text="Живой Гвоздь" title="Живой Гвоздь" xmlUrl="https://cloud.mave.digital/41353"/>
+        </outline>
+    </body>
+</opml>

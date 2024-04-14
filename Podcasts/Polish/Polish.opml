@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Polish</title>
+    </head>
+    <body>
+        <outline text="Polish">
+            <outline type="rss" text="Imponderabilia - Karol Paciorek" title="Imponderabilia - Karol Paciorek" xmlUrl="https://anchor.fm/s/5a81754/podcast/rss"/>
+            <outline type="rss" text="Kryminalne Historie" title="Kryminalne Historie" xmlUrl="https://anchor.fm/s/6e6e1568/podcast/rss"/>
+            <outline type="rss" text="Learn Polish Language Online Resource" title="Learn Polish Language Online Resource" xmlUrl="http://feeds.feedburner.com/realpolish"/>
+            <outline type="rss" text="Learn Polish Podcast" title="Learn Polish Podcast" xmlUrl="https://feed.podbean.com/learnpolish/feed.xml"/>
+            <outline type="rss" text="Nauka To Lubię" title="Nauka To Lubię" xmlUrl="https://feeds.castos.com/d4vo5"/>
+            <outline type="rss" text="Piąte: Nie zabijaj" title="Piąte: Nie zabijaj" xmlUrl="https://anchor.fm/s/e1b27dc0/podcast/rss"/>
+            <outline type="rss" text="Polish with John" title="Polish with John" xmlUrl="https://www.spreaker.com/show/3123739/episodes/feed"/>
+            <outline type="rss" text="Polski Daily" title="Polski Daily" xmlUrl="https://www.spreaker.com/show/2626525/episodes/feed"/>
+            <outline type="rss" text="Płynnie po polsku - Learn Polish with Anna" title="Płynnie po polsku - Learn Polish with Anna" xmlUrl="https://anchor.fm/s/b92708bc/podcast/rss"/>
+            <outline type="rss" text="Slow Polish Podcast" title="Slow Polish Podcast" xmlUrl="https://anchor.fm/s/6e73157c/podcast/rss"/>
+        </outline>
+    </body>
+</opml>

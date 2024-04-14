@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Hungarian</title>
+    </head>
+    <body>
+        <outline text="Hungarian">
+			<outline type="rss" text="444" title="444" xmlUrl="https://www.omnycontent.com/d/playlist/d8df8f59-7dc7-4c59-be78-aea00114ae64/5643256c-50ca-4b83-bd76-aead00d561e1/31d0efea-4591-440a-8088-aead00d561fd/podcast.rss"/>
+			<outline type="rss" text="5:59" title="5:59" xmlUrl="https://feeds.transistor.fm/5-59"/>
+			<outline type="rss" text="Agytágító" title="Agytágító" xmlUrl="https://feeds.megaphone.fm/BETO7434772990"/>
+			<outline type="rss" text="Friderikusz Podcast" title="Friderikusz Podcast" xmlUrl="https://anchor.fm/s/57b2bb1c/podcast/rss"/>
+			<outline type="rss" text="Hihetetlen Történelem Podcast" title="Hihetetlen Történelem Podcast" xmlUrl="https://feeds.megaphone.fm/BETO5027603861"/>
+	</outline>
+    </body>
+</opml>

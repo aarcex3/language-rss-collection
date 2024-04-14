@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Podcasts in Greek</title>
+    </head>
+    <body>
+        <outline text="Greek">
+            <outline type="rss" text="Easy Greek Stories - Intermediate Greek Language Level" title="Easy Greek Stories - Intermediate Greek Language Level" xmlUrl="https://anchor.fm/s/5b00b760/podcast/rss"/>
+            <outline type="rss" text="Easy Greek: Learn Greek with authentic conversations | Μάθετε ελληνικά με αυθεντικούς διαλόγ" title="Easy Greek: Learn Greek with authentic conversations | Μάθετε ελληνικά με αυθεντικούς διαλόγ" xmlUrl="https://feeds.fireside.fm/easygreek/rss"/>
+            <outline type="rss" text="Άλλο ένα Podcast, με τον Θωμά Ζάμπρα" title="Άλλο ένα Podcast, με τον Θωμά Ζάμπρα" xmlUrl="https://feeds.simplecast.com/xvyxNYWJ"/>
+            <outline type="rss" text="Μπούκλα 99 | Νεφέλη Μεγκ" title="Μπούκλα 99 | Νεφέλη Μεγκ" xmlUrl="https://feeds.simplecast.com/IAcu9dhU"/>
+            <outline type="rss" text="Στο Στόμα του Λάκη" title="Στο Στόμα του Λάκη" xmlUrl="https://feeds.simplecast.com/qq7hQTGu"/>
+            <outline type="rss" text="WeeGreek: Short Stories and News in Easy And Simple Greek!" title="WeeGreek: Short Stories and News in Easy And Simple Greek!" xmlUrl="https://anchor.fm/s/36fd71c8/podcast/rss"/>
+            <outline type="rss" text="The Brain Hacking Academy" title="The Brain Hacking Academy" xmlUrl="https://feed.podbean.com/brainhackingacademy/feed.xml"/>
+        </outline>
+    </body>
+</opml>
